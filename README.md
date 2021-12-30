@@ -2,7 +2,7 @@
 
 Please refer to the following URL to install Docker.
 
-    https://docs.docker.com/engine/install/ubuntu/
+    https://docs.docker.com/engine/install/
 
 Please refer to the following URL to install Repo. 
 
@@ -16,6 +16,10 @@ To build Android N for Tinker Board (S) and Tinker Board (S) R2.0, please refer 
 
     https://github.com/TinkerBoard-Android/manifest/tree/n-mr1-rk3288-tb
 
-To build Android 11 for Tinker Board (S) R2.0, please refer to the following URL.
+To build Android 10 for Tinker Board 2/2S, please refer to the following URL.
+
+    https://github.com/TinkerBoard-Android/manifest/tree/android10-rk3399
+    
+To build Android 11 for Tinker Board (S) R2.0 and Tinker Board 2/2S, please refer to the following URL.
 
     https://github.com/TinkerBoard-Android/manifest/tree/android11-rockchip
